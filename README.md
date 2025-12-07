@@ -75,7 +75,7 @@ Being entirely built with **Glide Apps**, Arcs Hub benefits from:
 ## 📸 Screenshots
 
 ### All Main Screens
-<img src="arcshub.jpeg" width="300" />
+<img src="https://github.com/Vay2tracks/arcshub/blob/main/assets/arcshub.jpeg" width="300" />
 
 ### Add Service View
 <img src="arcshubservices" width="300" />
