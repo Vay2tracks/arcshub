@@ -7,16 +7,16 @@ The goal of Arcs Hub is to support the local community by giving visibility to s
 
 ---
 
-## 🌟 Purpose
+##  Purpose
 
 This app was created as part of a high school passion project, with the goal of building something meaningful and helpful for the community.
 
-Local businesses — including structured organizations, informal or unstructured providers, and home-based services that aren't widely advertised — are welcome to promote their services here.  
+Local businesses including structured organizations, informal or unstructured providers, and home-based services that aren't widely advertised are welcome to promote their services here.  
 Arcs Hub makes local service discovery easier, more inclusive, and accessible to everyone on **any device**.
 
 ---
 
-## 🛠️ How Arcs Hub Works
+##  How Arcs Hub Works
 
 Arcs Hub is built using Glide and works seamlessly across devices. Users can browse services, submit listings, and explore categories with a clean, responsive interface.
 
@@ -47,11 +47,11 @@ Being entirely built with **Glide Apps**, Arcs Hub benefits from:
 ---
 
 ## 🔗 Live App Link (Glide)
-👉 **https://arcshub.glide.page**  
+ **https://arcshub.glide.page**  
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
 - Business submission form  
 - Category-based browsing  
@@ -63,7 +63,7 @@ Being entirely built with **Glide Apps**, Arcs Hub benefits from:
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - **Glide Apps** (Web + Mobile Frontend)  
 - **Glide Tables** (Database)  
@@ -82,5 +82,4 @@ Being entirely built with **Glide Apps**, Arcs Hub benefits from:
 
 ---
 
-Thank you for taking the time to explore **Arcs Hub** —  
-a community-driven project built to support and uplift local businesses.
+Thank you for taking the time to explore **Arcs Hub** —  a community-driven project built to support and uplift local businesses.
